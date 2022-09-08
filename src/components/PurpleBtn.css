@@ -1,0 +1,23 @@
+.Button {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 16px;
+    text-decoration: none;
+
+    width: fit-content;
+    padding: 0px 20px;
+    height: 48px;
+
+    color:white;
+    line-height: 18px;  
+
+    background: #583FBC;
+    border-radius: 12px;
+    border-style: none;
+    cursor: pointer;
+}
+
+.Button:hover{
+    background: #8876d2;
+    transition: 0.3s ease all;
+}
