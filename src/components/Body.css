@@ -1,3 +1,8 @@
+.Body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .Banner {
     background-image: url('../images/Banner.svg');
     background-size:contain;
@@ -5,4 +10,8 @@
     height: 700px;
     margin-top:32px;
     padding: 112px 24px 0px 24px;
+}
+
+.MainText{
+    
 }
